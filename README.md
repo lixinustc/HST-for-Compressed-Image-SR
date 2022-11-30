@@ -37,7 +37,7 @@ More details will be decribed progressively.
 ## Cite US
 Please cite us if this work is helpful to you.
 ```
-@inproceedings{li2022hst, <br>
+@inproceedings{li2022hst, 
 title={HST: Hierarchical Swin Transformer for Compressed Image Super-resolution}, 
    author={Li, Bingchen and Li, Xin and Lu, Yiting and Liu, Sen and Feng, Ruoyu and Chen, Zhibo}, 
    booktitle={Proceedings of the European Conference on Computer Vision (ECCV) Workshops}, 
