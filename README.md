@@ -27,6 +27,12 @@ of our proposed methods.
 ## Usages
 More details will be decribed progressively.
 
+**The checkpoints for HST are released**:
+- [checkpoint_comp10_x4](https://drive.google.com/file/d/1ZtGxO6ghT1YFLgu_PIHBt7VpDV52CsjS/view?usp=sharing)
+- [checkpoint_comp20_x4](https://drive.google.com/file/d/1ldXbI5c9KHxsHQZS3hRRK2jR9HRvfqyD/view?usp=sharing)
+- [checkpoint_comp30_x4](https://drive.google.com/file/d/1ANqQkYW7JKPLdJLKq1xHixaSZtn3e0q-/view?usp=sharing)
+- [checkpoint_comp40_x4](https://drive.google.com/file/d/1SlvhcFSEr4jM5gUB_we8c-EYmpIUntIT/view?usp=sharing)
+
 
 ## Cite US
 Please cite us if this work is helpful to you.
