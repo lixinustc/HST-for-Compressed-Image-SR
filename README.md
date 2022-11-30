@@ -1,7 +1,12 @@
-# [HST-Hierarchical-Swin-Transformer-for-Compressed-Image-Super-resolution](https://arxiv.org/abs/2208.09885)
+# HST
+HST: Hierarchical Swin Transformer for Compressed Image Super-resolution
+> [**HST**](https://arxiv.org/abs/2208.09885), Bingchen Li, Xin Li, et al.    
+
+> Achieved **the fifth place** in the competition of the AIM2022 compressed image super-resolution track.
+
+> Accepted by ECCV2022 Workshop 
 
 
-Our proposed HST achieves the fifth place in the AIM2022 compressed image super-resolution track.
 
 If you are interested in our work, please cite it as follows:
 
