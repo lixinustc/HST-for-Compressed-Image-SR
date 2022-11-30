@@ -6,6 +6,16 @@ HST: Hierarchical Swin Transformer for Compressed Image Super-resolution
 
 > Accepted by ECCV2022 Workshop 
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hst-hierarchical-swin-transformer-for/compressed-image-super-resolution-on-div2k)](https://paperswithcode.com/sota/compressed-image-super-resolution-on-div2k?p=hst-hierarchical-swin-transformer-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hst-hierarchical-swin-transformer-for/compressed-image-super-resolution-on-div2k-1)](https://paperswithcode.com/sota/compressed-image-super-resolution-on-div2k-1?p=hst-hierarchical-swin-transformer-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hst-hierarchical-swin-transformer-for/compressed-image-super-resolution-on-div2k-2)](https://paperswithcode.com/sota/compressed-image-super-resolution-on-div2k-2?p=hst-hierarchical-swin-transformer-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hst-hierarchical-swin-transformer-for/compressed-image-super-resolution-on-div2k-3)](https://paperswithcode.com/sota/compressed-image-super-resolution-on-div2k-3?p=hst-hierarchical-swin-transformer-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hst-hierarchical-swin-transformer-for/compressed-image-super-resolution-on-set5-q10)](https://paperswithcode.com/sota/compressed-image-super-resolution-on-set5-q10?p=hst-hierarchical-swin-transformer-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hst-hierarchical-swin-transformer-for/compressed-image-super-resolution-on-set14)](https://paperswithcode.com/sota/compressed-image-super-resolution-on-set14?p=hst-hierarchical-swin-transformer-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hst-hierarchical-swin-transformer-for/compressed-image-super-resolution-on-bsd100)](https://paperswithcode.com/sota/compressed-image-super-resolution-on-bsd100?p=hst-hierarchical-swin-transformer-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hst-hierarchical-swin-transformer-for/compressed-image-super-resolution-on-urban100)](https://paperswithcode.com/sota/compressed-image-super-resolution-on-urban100?p=hst-hierarchical-swin-transformer-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hst-hierarchical-swin-transformer-for/compressed-image-super-resolution-on-manga109)](https://paperswithcode.com/sota/compressed-image-super-resolution-on-manga109?p=hst-hierarchical-swin-transformer-for)
+
 ![image](https://github.com/lixinustc/HST-Hierarchical-Swin-Transformer-for-Compressed-Image-Super-resolution/blob/main/figs/HST.png)
 
 ## Abstract 
