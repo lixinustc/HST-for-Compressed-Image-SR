@@ -25,7 +25,7 @@ compressed image super-resolution track, with the PSNR of 23.51dB. Extensive exp
 of our proposed methods.
 
 ## Usages
-
+More details will be decribed progressively.
 
 
 ## Cite US
