@@ -1,0 +1,1 @@
+python test_HST.py --ckpt checkpoint/model_comp40.pt --comp_level 40
